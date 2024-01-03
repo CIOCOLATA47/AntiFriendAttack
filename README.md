@@ -1,3 +1,6 @@
+# Newer version of this mod will be found here https://modrinth.com/mod/antihit
+
+
 # AntiFriendAttack
 The "AntiFriendAttack" mod is a client-side Minecraft mod that allows players to manage a list of friends and prevent accidental attacks on them. Players can add and remove friends using configurable keybindings.
 
